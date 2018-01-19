@@ -16,7 +16,7 @@ In order to use, it is necessary to register the game on our server and obtain a
 Please contact us at  
 `info@bazaar.tokyo`  
 
-ご利用に当たっては、弊社サーバへのゲームの登録を行い、アプリケーションIDなどの取得が必要です。 
+ご利用に当たっては、弊社サーバへのゲームの登録を行い、アプリケーションIDなどの取得が必要です。  
 `info@bazaar.tokyo`  
 までお問い合わせ下さい。  
 
