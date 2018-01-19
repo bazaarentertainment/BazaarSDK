@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="game_sdk_get_appid_error">
+        正確なAppIdを獲得できませんでした。AndroidManifest.xmlで書いたAppIdを獲得する方法のnameは%sかどうかをチェックし,入力したvalueは正しいかどうかもチェックしてください
+    </string>
+    <string name="game_sdk_server_return_data_error">エラー:サーバーサイドから返されたデータ</string>
+    <string name="game_sdk_net_time_out">ネットワーク接続タイムアウトしました</string>
+    <string name="game_sdk_win_account_secset">アカウントセキュリティセッティング</string>
+    <string name="game_sdk_win_account_curacc">アカウント：</string>
+    <string name="game_sdk_win_account_inpmail">メールアドレスまたは電話番号を入力して下さい</string>
+    <string name="game_sdk_win_account_getcode">認証コードを受け取る</string>
+    <string name="game_sdk_win_account_inpcode">認証コードを入力</string>
+    <string name="game_sdk_win_account_checkover">認証完了</string>
+    <string name="game_sdk_win_account_mailinfo">電話番号はパスワードを忘れた場合に備えてアカウントへのアクセスを回復する方法を確保できます！
+    </string>
+    <string name="game_sdk_win_account_codenull">認証コードを入力</string>
+    <string name="game_sdk_win_account_null">メールアドレスまたは電話番号を入力</string>
+    <string name="game_sdk_win_account_bindsuc">関連付け</string>
+    <string name="game_sdk_win_account_binderr">関連付け失敗</string>
+    <string name="game_sdk_win_account_mailerr">電話番号またはメールアドレスの入力内容に誤りがあります</string>
+    <string name="game_sdk_win_account_waitsend">一分後にもう一度送信してください</string>
+    <string name="game_sdk_win_account_sendsuc">認証コードを送信完了</string>
+    <string name="game_sdk_win_account_senderr">認証コードを送信失敗</string>
+    <string name="game_sdk_win_alert_sure">確認</string>
+    <string name="game_sdk_win_alert_cancel">キャンセル</string>
+    <string name="game_sdk_win_account_bindacc">アカウントと関連付け</string>
+    <string name="game_sdk_win_account_inpuser">ユーザー名を入力</string>
+    <string name="game_sdk_win_account_inppass">パスワードを入力</string>
+    <string name="game_sdk_win_account_inpname">本名を入力</string>
+    <string name="game_sdk_win_account_inpsfz">身分証明書番号を入力</string>
+    <string name="game_sdk_win_account_inpsurepass">パスワードを確認してください</string>
+    <string name="game_sdk_win_account_agree">内容を理解し、同意します</string>
+    <string name="game_sdk_win_account_agreename">《%s-利用規約》</string>
+    <string name="game_sdk_win_account_alredyreg">既存アカウントで%sログイン</string>
+    <string name="game_sdk_win_account_bind">関連付け</string>
+    <string name="game_sdk_win_account_bindloginacc">認証情報と関連付け</string>
+    <string name="game_sdk_win_account_manage">アカウント管理</string>
+    <string name="game_sdk_win_account_accinfo">アカウントは最小6バイトから最大20バイトまでの文字列（中/英+数字、数字だけは不可）</string>
+    <string name="game_sdk_win_account_passinfo">"パスワードは最小6バイトから最大20バイトまでの文字列、特殊文字は不可</string>
+    <string name="game_sdk_win_account_sfzinfo">正しい身分証明書番号を入力</string>
+    <string name="game_sdk_win_account_realname">正しい本名を入力</string>
+    <string name="game_sdk_win_account_passsureinfo">パスワードが一致していません</string>
+    <string name="game_sdk_win_pass_reset">パスワードをリセット</string>
+    <string name="game_sdk_win_pass_inpnewpass">新規パスワードを入力</string>
+    <string name="game_sdk_win_pass_inpsurenewpass">新規パスワードを確認</string>
+    <string name="game_sdk_win_pass_save">保存</string>
+    <string name="game_sdk_win_pass_resendcode">もう一度認証コードを受け取る</string>
+    <string name="game_sdk_win_pass_resetsuc">パスワードリセット完了</string>
+    <string name="game_sdk_win_pass_reseterr">パスワードリセット失敗</string>
+    <string name="game_sdk_win_pass_findpass">パスワードを忘れた方</string>
+    <string name="game_sdk_win_pass_getcode">認証コードを受け取る</string>
+    <string name="game_sdk_win_pass_forgetusername">ユーザー名を忘れた方</string>
+    <string name="game_sdk_win_pass_findaccount">アカウントを忘れた方</string>
+    <string name="game_sdk_win_pass_findaccountsuc">ユーザー名を　に送信しました</string>
+    <string name="game_sdk_win_pass_findaccounterr">アカウントを取り戻せません</string>
+    <string name="game_sdk_win_needshiming">規定により、本人確認が必要です。ゲームを始めるために本人確認をしてください。</string>
+    <string name="game_sdk_win_pass_recheck">もう一度認証する</string>
+    <string name="game_sdk_win_login_back">おかえりなさい,\r\n</string>
+    <string name="game_sdk_win_login_loginacc">ログイン</string>
+    <string name="game_sdk_win_login_account">アカウント/電話番号</string>
+    <string name="game_sdk_win_login_pass">パスワード</string>
+    <string name="game_sdk_win_login_login">ログイン</string>
+    <string name="game_sdk_win_login_fail">アカウント又はパスワードの入力に誤りがあります</string>
+    <string name="game_sdk_win_login_forgetpassandacc">パスワードを忘れた？</string>
+    <string name="game_sdk_win_login_fastregister">登録</string>
+    <string name="game_sdk_win_login_oneregister">すぐに登録</string>
+    <string name="game_sdk_win_manage_editpass">パスワードを変更</string>
+    <string name="game_sdk_win_manage_zhuxiao">サインアウト/アカウント切り替え</string>
+    <string name="game_sdk_win_manage_oldpass">古いパスワードを入力</string>
+    <string name="game_sdk_win_manage_newpass">新規パスワードを入力</string>
+    <string name="game_sdk_win_manage_passsuc">パスワードを変更しました、もう一度ログインしてください</string>
+    <string name="game_sdk_win_manage_passerr">パスワード変更失敗</string>
+    <string name="game_sdk_win_manage_inpoldpass">古いパスワードを入力</string>
+    <string name="game_sdk_win_manage_inpnewpass">新規パスワードを入力</string>
+    <string name="game_sdk_win_manage_inpsurenewpass">新規パスワードを確認してください</string>
+    <string name="game_sdk_win_manage_zhuxiao2">サインアウト</string>
+    <string name="game_sdk_win_manage_zhuxiaoinfo">サインアウトしてアカウントを切り替えます、サインアウトしますか？</string>
+    <string name="game_sdk_win_register_success">登録完了</string>
+    <string name="game_sdk_win_shiming_success">本人確認済</string>
+    <string name="game_sdk_win_shiming_error">本名又は身分証明書番号の入力に誤りがある</string>
+    <string name="game_sdk_win_register_error">登録失敗</string>
+    <string name="game_sdk_win_register_register">登録</string>
+    <string name="game_sdk_win_register_accountexist">このユーザー名は既に使用されています</string>
+    <string name="game_sdk_win_register_account_phoneexist">電話番号はアカウントに関連付けられてます、電話番号でログインしてください
+    </string>
+    <string name="game_sdk_win_tool_shequ">ゲームゾーン</string>
+    <string name="game_sdk_win_tool_pack">ゲームギフト</string>
+    <string name="game_sdk_win_tool_manage">アカウントセンター</string>
+    <string name="game_sdk_win_tool_networkerr">今は接続できません、インターネット接続をチェックしてください！</string>
+    <string name="game_sdk_win_tool_moreapp">ゲームをさらに表示</string>
+    <string name="game_sdk_win_tool_nologin">サインインしていません</string>
+    <string name="game_sdk_win_tool_paylog">チャージ詳細</string>
+    <string name="game_sdk_win_tool_query_balance_error">残高照会失敗</string>
+    <string name="game_sdk_win_tool_pay">チャージ</string>
+    <string name="game_sdk_win_tool_paysuc">支払い済み</string>
+    <string name="game_sdk_win_tool_payerr">支払い失敗</string>
+    <string name="game_sdk_win_tool_paying">支払い結果確認中</string>
+    <string name="game_sdk_win_tool_sinalogin">WEIBOでログイン</string>
+    <string name="game_sdk_win_tool_qqlogin">QQでログイン</string>
+    <string name="game_sdk_win_uninstalled_weixin">WECHATをインストールしてない、まずインストールしてください</string>
+    <string name="game_sdk_win_tool_downerr">OSバージョンはAndroid 3.0より古いため、ダウンロード出来ません！</string>
+    <string name="game_sdk_win_tool_checkinfo">検査結果:</string>
+    <string name="game_sdk_win_tool_payresult">支払い結果</string>
+    <string name="game_sdk_win_tool_productprice">商品価格:</string>
+    <string name="game_sdk_win_tool_productname">商品名:</string>
+    <string name="game_sdk_win_tool_payprice">未払い残高:</string>
+    <string name="game_sdk_win_tool_accountmoney">アカウント残高:</string>
+    <string name="game_sdk_win_tool_danwei">元</string>
+    <string name="game_sdk_win_notice">公告</string>
+    <string name="game_sdk_soft_update_info">新しいバージョンが利用可能です、すぐ更新</string>
+    <string name="game_sdk_soft_update_title">ゲームをアップデート</string>
+    <string name="game_sdk_soft_update_updatebtn">アップデート</string>
+    <string name="game_sdk_soft_update_later">後でアップデート</string>
+    <string name="game_sdk_soft_updating">アップデート中</string>
+    <string name="game_sdk_soft_update_cancel">キャンセル</string>
+    <string name="game_sdk_win_account_inpphone">電話番号を入力</string>
+    <string name="game_sdk_win_login_tips">
+        アカウントの安全性が低い状態です。アカウントとアイテムが\n乗っ取られるのを避けるため電話番号と関連つけてください
+    </string>
+    <string name="game_sdk_win_login_tipsm">\n規定により、本人確認が必要。確認後チャージやゲーム進度の保存も行えるようになります</string>
+    <string name="game_sdk_win_account_gobind">電話番号と関連つける</string>
+    <string name="game_sdk_win_account_shiming">本人確認</string>
+    <string name="game_sdk_win_login_tiptitle">セキュリティの警告</string>
+    <string name="game_sdk_win_login_notip">今後表示しない</string>
+    <string name="game_sdk_win_account_phoneerr">電話番号に誤りがあります</string>
+    <string name="game_sdk_win_account_codeerr">認証コードに誤りがあります</string>
+    <string name="game_sdk_win_account_phonebinded">この電話番号はすでに他のアカウントと関連付けられています</string>
+    <string name="game_sdk_win_account_phonenobind">関連つけられてる電話番号は存在しません</string>
+    <string name="game_sdk_win_account_emailnobind">関連つけられてるメールアドレスは存在しません</string>
+    <string name="game_sdk_win_account_kefutext">お問い合わせ:</string>
+    <string name="game_sdk_win_account_findusernametext">登録したメールアドレスと電話番号を忘れた場合、お問い合わせへ</string>
+    <string name="game_sdk_win_account_country_codenulls">電話番号が利用される国を選択してください</string>
+    <string name="game_sdk_win_account_loginfail">ログインできません。サービスに連絡してください</string>
+    <string name="game_sdk_win_account_loginerrorinfo">アカウントとパスワードを入力</string>
+    <string name="game_sdk_win_net_error">ネットに接続できません</string>
+    <string name="game_sdk_data_loading">読み込み中...</string>
+    <string name="game_sdk_time_second">秒</string>
+    <string name="game_sdk_hint_no_login">ログインしてください</string>
+    <string name="game_sdk_hint_error_appid">AppIdに誤りがります。確認してください</string>
+    <string name="game_sdk_win_tool_down_ing">ダウンロード開始</string>
+    <string name="game_sdk_win_tool_down_error">ダウンロード失敗</string>
+    <string name="game_sdk_win_tool_down_success">ダウンロード完了、インストール開始</string>
+    <string name="game_sdk_win_tool_alert_permission">フローティングウィンドウの表示を申請</string>
+    <string name="game_sdk_win_tool_alert_permission_info">
+        新しいシステムバージョンによって、フローティングウィンドウの表示は「申請」をクッリクしてから変更出来ます
+    </string>
+    <string name="game_sdk_win_tool_alert_permission_button">申請</string>
+    <string name="game_sdk_win_tool_alert_permission_later_button">後で申請</string>
+    <string name="game_sdk_win_account_inpcountry">区域番号を選択</string>
+    <string name="game_sdk_win_account_country_taiwan">台湾</string>
+    <string name="game_sdk_win_account_country_dalu">大陸</string>
+    <string name="game_sdk_win_account_closelogin">
+        申し訳ありません、今のバージョンではログインできません。最新版に更新するか、またはお問い合わせへ
+    </string>
+    <string name="game_sdk_win_account_closereg">申し訳ありません、今のバージョンはサインインできません。最新版に更新するか、またはお問い合わせへ
+    </string>
+    <string name="game_sdk_win_account_closepay">申し訳ありません、今のバージョンはチャージできません。最新版に更新するか、またはお問い合わせへ
+    </string>
+    <string name="game_sdk_win_account_oneregister_tips">システムはアカウントを自動生成しましたが、覚えやすいアカウントに変更できます
+    </string>
+    <string name="game_sdk_win_account_shiming_tips">
+        規定により、本人確認が必要です。\n確認後チャージやゲーム進度の保存も行えるようになります。身分証明書番号と本名を入力して本人確認を！
+    </string>
+    <string name="game_sdk_win_pay_weixin_alipay_low_version">
+        携帯にアリペイ又はwechatがインストールされてないか、もしくはアリペイ又はwechatのバージョンが古いです
+    </string>
+
+</resources>
